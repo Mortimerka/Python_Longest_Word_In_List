@@ -1,4 +1,4 @@
-print(len(words[]))
+
 
 
 mine:
