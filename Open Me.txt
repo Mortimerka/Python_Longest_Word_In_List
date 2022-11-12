@@ -1,6 +1,3 @@
-
-
-
 mine:
 
 words = ['a', 'aa', 'aaa', 'a']
@@ -13,7 +10,7 @@ for index2 in range(0, len(words)):
     if max == len(words[index2]):
         print(words[index2]) 
 	
-	
+_________________________________	
 	
 from internet:
 
