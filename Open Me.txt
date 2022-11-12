@@ -1,0 +1,22 @@
+print(len(words[]))
+
+
+mine:
+
+words = ['a', 'aa', 'aaa', 'a']
+max = len(words[0])
+for index in range(0, len(words)):
+    if max < len(words[index]):
+        max = len(words[index])
+
+for index2 in range(0, len(words)):
+    if max == len(words[index2]):
+        print(words[index2]) 
+	
+	
+	
+from internet:
+
+words = ['a', 'aa', 'aaa', 'a']
+l = max(words)
+print(l)
